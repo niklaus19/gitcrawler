@@ -11,3 +11,5 @@ Known issues: 	GitHub gives only 1000 results i.e. 100 pages, irrespective of th
 
 Note: This is just initial commit to get the app working, needs to be improved.
 
+Will be improve soon, it's not much to do, just need some spare time.
+
